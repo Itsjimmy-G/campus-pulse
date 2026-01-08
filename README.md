@@ -15,7 +15,7 @@ This is a full-stack event management system built with PHP, MySQL, CSS, and Jav
 * **Public Event Listings:** A homepage (`index.php`) that shows all upcoming events to the public.
 * **Event Registration:** Attendees can register for events. The "Register" button is smart—it only appears for logged-in users who haven't registered yet.
 * **Reporting:**
-    * **For Planners:** View a list of all attendees registered for their event.
+    * **For Planners:** View a list of all attendees registered for their event (not fully implemented )//open to contributions.
     * **For Users:** View a list of all events they are registered for.
 * **Responsive Design:** Features a sticky, transparent header and a hamburger menu for a clean mobile experience.
 
